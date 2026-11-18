@@ -14,7 +14,7 @@ keiyoushi {
     listOf("en", "ja", "zh", "ko", "all").forEach { language ->
         source {
             lang = language
-            baseUrl = "https://hentaifox.com"
+            baseUrl = "https://hentaifox.tv"
         }
     }
 }
